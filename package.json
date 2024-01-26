@@ -1,0 +1,28 @@
+{
+  "name": "node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "watch": "nodemon --ext *"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/0xelsherif/Node-express.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/0xelsherif/Node-express/issues"
+  },
+  "homepage": "https://github.com/0xelsherif/Node-express#readme",
+  "dependencies": {
+    "connect-livereload": "^0.6.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "livereload": "^0.9.3",
+    "mongoose": "^8.1.1"
+  }
+}
