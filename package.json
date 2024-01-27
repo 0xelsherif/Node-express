@@ -9,16 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/0xelsherif/Node-express.git"
+    "url": "git+https://github.com/0xelsherif/Node-express-using-mongoDB.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/0xelsherif/Node-express/issues"
+    "url": "https://github.com/0xelsherif/Node-express-using-mongoDB/issues"
   },
-  "homepage": "https://github.com/0xelsherif/Node-express#readme",
+  "homepage": "https://github.com/0xelsherif/Node-express-using-mongoDB#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
     "connect-livereload": "^0.6.1",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
